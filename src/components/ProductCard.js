@@ -1,15 +1,6 @@
 import React from 'react';
 import './ProductCard.css'
 
-
-
-// id: 3, name: 'Monsterra', subtitle: 'Indoor Plant, Low maintenance', price: '₹ 299',
-
-//  nonscale_price : "₹ 359", ratingno: '4.9', productimage: '/assets/product3.png', starimage: '/assets/star.png' ,
-
-//   whishimage: "/assets/wishicon.png"
-
-
 const ProductCard = ({ product, onView, onAddToCart }) => (
   <div className="product-card">
     <div className='border-lines'>
