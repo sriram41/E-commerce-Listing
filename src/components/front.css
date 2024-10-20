@@ -1,0 +1,47 @@
+.page-front-page-882 {
+    margin:31px 20px;
+    margin-bottom: 0px;
+}
+
+.page-front-page-882 .button {
+    display: flex;
+    gap: 12px;
+}
+
+.btn-1 {
+    
+    padding: 10px 28px;
+    font-size: 18px;
+    background-color: #165315;
+    color: #fff;
+    border-color: #165315;
+}
+
+.btn-2 {
+    padding: 10px 28px;
+    font-size: 18px;
+    color: #ccc;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+
+.group-nursery {
+    display: flex;
+    text-align: center;
+    gap: 49px;
+}
+
+
+.button p {
+    line-height: 22px;
+}
+
+.group-nursery p {
+    line-height: 22px;
+}
+
+.nursery-1 {
+    padding-bottom: 10px;
+    padding-top: 5px;
+}

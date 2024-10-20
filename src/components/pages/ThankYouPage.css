@@ -1,0 +1,83 @@
+
+
+.modal {
+  background-color: #ffffff;
+  border: 2px solid #e6e6e6;
+  border-radius: 10px;
+  width: 320px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+    background-position: center;
+}
+
+.modal-content {
+  text-align: center;
+  padding: 10px;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #555;
+}
+
+h2 {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #556b2f;
+}
+
+hr {
+  border: 0.5px solid #dcdcdc;
+  margin: 15px 0;
+}
+
+h3 {
+  color: #2f6f30;
+  font-size: 18px;
+  margin: 15px 0;
+}
+
+.plant-icon {
+  margin: 15px 0;
+  width: 80px;
+  height: 80px;
+}
+
+p {
+  font-size: 14px;
+  color: #333;
+  margin: 10px 0 20px 0;
+  line-height: 1.5;
+}
+
+.continue-button {
+  background-color: #2f6f30;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+
+
+
+
+.thankyoubody {
+  text-align: center;
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}

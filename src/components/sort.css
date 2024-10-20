@@ -1,0 +1,23 @@
+.buttons-product-sort {
+    display: flex;
+    gap: 15px;
+}
+
+.sortby-button {
+    padding: 12px 15px !important;
+    height: 41px;
+    background-color: #165315;
+    color: #fff;
+    font-weight: 600;
+}
+
+.sortby-button img{ 
+    margin-left: 18px;   
+    color: #fff;
+}
+
+.buttons-product-sort p{
+    margin-top: 12px;
+    font-size: 15px;
+    margin-bottom: 25px;
+}

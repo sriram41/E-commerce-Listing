@@ -1,0 +1,162 @@
+/* Header.css */
+.header {
+    background-color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .icons i {
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+
+  .para-1 {
+    display: flex;
+ 
+    background-color: #165315;
+
+  }
+
+  .para-1 p {
+    font-size: 14px;
+    padding: 11px 0px;
+    color: #fff;
+    letter-spacing: 1px;
+    margin: 0;
+}
+  
+.h-side-left {
+  display: flex;
+  gap:9px;
+
+}
+
+.h-side-left  h3 {
+  color: #165315;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.second-block{
+  width: 100%;
+  max-width: 50%;
+}
+
+.input-search {
+  text-align: center;
+}
+
+.menu  li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 16px;
+
+}
+
+.active:hover {
+  color: #F3A939;
+  border-bottom: 1px solid #F3A939;
+  
+}
+
+.input-search img{
+  top: 4px;
+  position: relative;
+  width: 16px;
+
+
+}
+
+header input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border: 0px;
+  border-bottom: 2px solid #ccc;
+  width: 183px;
+  border-radius: 0px;
+}
+
+.leaf {
+  width: 17px !important;
+  right: 20px;
+}
+
+.search-icon1 {
+  left: 4px;
+}
+
+.sub-menuli {
+  display: flex;
+  gap: 9px;
+}
+
+
+.submenu li {
+  
+  list-style-type: none;
+}
+
+.submenu{
+  padding-left: 0px;
+  right: 20px;
+    position: relative;
+    line-height: 27px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 8px 10px;
+    background: #fff;
+}
+
+.dropdown {
+  position: absolute;
+  margin-left: 44px;
+}
+
+.search-icon1 {
+  width: 27px;
+}
+
+.cart-icon {
+  width: 33px;
+}
+
+
+.cart-icon1 {
+  display: flex;
+}
+
+.cart-icon1 p {
+  position: absolute !important;
+  top: 37px;
+    right: 7px !important;
+  font-size: 12px !important;
+  background: #F3A939;
+  padding: 4px 7px;
+  border-radius: 70px;
+}
+
+.pro-1 p{
+  font-size: 13px;
+  margin: 0 auto;
+  right: 10px;
+  position: relative;
+}
+
+.cart-1-1 span{
+  font-size: 13px;
+  margin: 0 auto;
+  left: 6px;
+  position: relative;
+}
+
+.width-para {
+  width: 33.3%;
+}
+
+.para-1 div:nth-child(3) {
+  text-align: end;
+  margin-right: 10px;
+}

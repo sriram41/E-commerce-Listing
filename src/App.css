@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+.products-total {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+
+.buttons-view-more {
+  margin: 0 auto;
+  display: block;
+  padding: 10px 31px;
+  border-radius: 38px;
+  border: 1px solid #165315;
+  background-color: #165315;
+  color: #fff;
+}
+
+.view-more-total  {
+  margin-top: 3rem;
+}
